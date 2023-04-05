@@ -2,4 +2,6 @@ pandas
 numpy
 matplotlib
 seaborn
+sklearn
+dill
 -e .
